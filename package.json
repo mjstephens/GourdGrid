@@ -1,0 +1,11 @@
+{
+  "name": "com.galaxygourd.grid",
+  "version": "1.0.0",
+  "displayName": "GourdGrid",
+  "description": "Basic square grid library.",
+  "author": {
+    "name": "Michael Stephens",
+    "email": "mstephens.dev@gmail.com",
+    "url" : "http://www.mstephensdev.com/" 
+  }
+}
